@@ -1,0 +1,11 @@
+{
+  "name": "phishguard-ai-workspace",
+  "version": "2.0.0",
+  "description": "PhishGuard AI - Explainable AI-Powered Phishing URL Detection Platform",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint"
+  }
+}
